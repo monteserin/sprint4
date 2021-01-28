@@ -2,7 +2,7 @@ export default () => {
 
     return (
         <div>
-            hola
+            hola, terminamos la rama devg
         </div>
     );
 };
